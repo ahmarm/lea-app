@@ -45,7 +45,7 @@ import { ic_format_list_bulleted } from 'react-icons-kit/md/ic_format_list_bulle
 import { ic_people } from 'react-icons-kit/md/ic_people';
 import { ic_shopping_cart } from 'react-icons-kit/md/ic_shopping_cart';
 
-import 'font-awesome/css/font-awesome.min.css';
+import 'font-awesome/css/font-awesome.min.css1';
 
 
 //import CircularProg from './ress from '@material-ui/core/CircularProgress';
